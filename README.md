@@ -1,6 +1,5 @@
 # pmnm-hocphan
 **Học phần:** Phần mềm mã nguồn mở - Nhóm 2
-
 - **Họ và tên:** Võ Ngọc Minh Châu
 - **Mã sinh viên:** 23T1020634
 - **Lớp:** CNTT-K47D
