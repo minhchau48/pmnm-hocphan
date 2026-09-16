@@ -13,3 +13,9 @@ cách đúng quy định.
 3. Mozilla Firefox - Giấy phép: Mozilla Public License 2.0 (MPL 2.0).
 4. Git - Giấy phép: GNU General Public License v2.0.
 5. VLC Media Player - Giấy phép: GNU General Public License (GPL) v2.0.
+## Giấy phép
+
+Mã nguồn trong kho này được phát hành
+theo [Giấy phép MIT](LICENSE).
+
+SPDX-License-Identifier: MIT
