@@ -9,12 +9,13 @@ Cuối năm 2014, dự án io.js được tạo ra từ mã nguồn của Node.j
 Io.js có mục tiêu tiếp tục phát triển JavaScript phía máy chủ nhưng với cách quản lý cộng đồng cởi mở hơn. Dự án cũng tập trung vào việc cập nhật nhanh các phiên bản JavaScript và công nghệ mới.
 Io.js có nhiều điểm tương đồng với Node.js nên các lập trình viên có thể dễ dàng làm quen và chuyển đổi giữa hai dự án. Đây là một ví dụ về fork, khi một nhóm phát triển tách mã nguồn từ dự án ban đầu để tạo ra một dự án mới.
 
-### 3. Tác động đến cộng đồng và công nghiệp
+### 3. Tác động đến cộng đồng và ngành công nghiệp
+
 Việc io.js xuất hiện tạo ra một số tác động:
-**Tạo thêm lựa chọn:** Lập trình viên có thể lựa chọn Node.js hoặc io.js.
-**Thúc đẩy phát triển:** io.js tập trung vào việc cập nhật và phát triển các tính năng mới.
-**Cộng đồng bị chia nhỏ:** Một số nhà phát triển chuyển sang io.js trong khi những người khác tiếp tục sử dụng Node.js.
-**Thúc đẩy hợp tác:** Sự tồn tại của hai dự án đã dẫn đến việc cộng đồng tìm cách hợp tác và thống nhất lại.
+- **Tạo thêm lựa chọn:** Lập trình viên có thể lựa chọn Node.js hoặc io.js.
+- **Thúc đẩy phát triển:** io.js tập trung vào việc cập nhật và phát triển các tính năng mới.
+- **Cộng đồng bị chia nhỏ:** Một số nhà phát triển chuyển sang io.js, trong khi những người khác tiếp tục sử dụng Node.js.
+- **Thúc đẩy hợp tác:** Sự tồn tại của hai dự án đã dẫn đến việc cộng đồng tìm cách hợp tác và thống nhất lại.
 
 ### 4. Bài học rút ra
 Trường hợp Node.js và io.js cho thấy cách quản lý cộng đồng rất quan trọng đối với dự án mã nguồn mở. Khi các nhà phát triển không đồng ý với hướng phát triển của dự án, họ có thể sử dụng cơ chế fork để tạo ra một dự án mới.
